@@ -334,9 +334,9 @@
             <div class="pull-right hidden-xs">
                 Page rendered in <strong>{elapsed_time}</strong> seconds.
             </div>
-            <strong>Copyright &copy; <?=date('Y');?> <a href="https://nokenstore.com/e-raport">e-Raport</a>.</strong>
+            <strong>Copyright &copy; <?=date('Y');?> <a href="https://nokenstore.com/e-raport"></a>.</strong>
             All rights
-            reserved. | Repost by <a href='' title='' target='_blank'>Bayu Tutor</a>
+             <a href='' title='' target='_blank'></a>
             
         </footer>
     </div>
